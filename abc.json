@@ -1,12 +1,12 @@
 {
     "name": "pinyin",
     "version": "1.0",
-    "desc": "请修改组件描述",
+    "desc": "汉字转拼音",
     "cover": "",
     "author": {
         "name": "yiminghe",
         "email": "yiminghe@gmail.com",
-        "page": "请修改作者个人首页"
+        "page": "http://docs.kissyui.com"
     },
     "type": "kissy-pie",
     "type-url": "http://abc.alibaba-inc.com/r/kissy-pie"
