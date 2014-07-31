@@ -1,12 +1,11 @@
-## pinyin
+## 综述
 
-## 汉字转拼音
+Pinyin。
 
-不太准确的, 例如
+## 初始化组件
+		
+    S.use('kg/pinyin/2.0.0/index', function (S, Pinyin) {
+         var pinyin = new Pinyin();
+    })
 
-``` javascript
-	S.use('kg/pinyin/2.0.0/', function (S, pinyin) {
-       alert(pinyin('测')+pinyin('试')+pinyin('下'));
-  });
-```    
-
+## API说明
